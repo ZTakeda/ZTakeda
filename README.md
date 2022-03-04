@@ -10,9 +10,9 @@ ___
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 
 :page_with_curl: I'm currently learning:
-- Python
-- PHP
-- Javascript
+- `Python`
+- `PHP`
+- `Javascript`
 
 :star: Here are some projects that I'm working on:
 - [ChizuruBOT Repository](https://github.com/Kotzyy/chizuru)
