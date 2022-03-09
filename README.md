@@ -23,7 +23,7 @@ ___
 
 ![ztakeda's github stats](https://github-readme-stats.vercel.app/api?username=ZTakeda&layout=compact&theme=darcula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ZTakeda&theme=darcula&layout=compact)
-![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=ZTakeda&repo=chizuru&theme=darcula&layout=compact)
+![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=ZTakeda&repo=apiii&theme=darcula&layout=compact)
 <!--
 **ZTakeda/ZTakeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
